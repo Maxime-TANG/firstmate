@@ -70,8 +70,7 @@ Use the following method in order, then apply it to the available context.
 10. **Check coherence.**
     Confirm that each promised outcome has a module, journey step, owner, prerequisite, safeguard, and commercially honest basis.
 
-Present this method briefly before the applied offer when the requester asks for a method or reusable framework.
-Otherwise, use it silently and make the resulting structure self-explanatory.
+Present this method briefly before every applied offer, then apply it in order.
 
 ## Build the applied offer
 
