@@ -159,15 +159,16 @@ Keep the fact, assumption, recommendation, and decision labels visible in the ap
 A short evidence register or a `Statut` column is preferable to repeating disclaimers in every paragraph.
 Use concise tables where comparison helps, but explain significant trade-offs in prose.
 
-## Markdown delivery
+## Markdown and HTML delivery
 
-When Markdown is requested, provide one self-contained document with a title, executive summary, stable heading hierarchy, plain-language tables, and the registers above.
+Always provide both deliverables: one self-contained Markdown document and one complete standalone HTML document.
+The Markdown document must have a title, executive summary, stable heading hierarchy, plain-language tables, and the registers above.
 Use descriptive link text and avoid relying on colour, icons, or a table alone to convey a critical distinction.
 Do not include placeholder numbers that could be mistaken for a quote.
 
 ## HTML delivery
 
-When HTML is requested, produce a complete standalone HTML document as well as the Markdown source when both formats are requested.
+Produce the HTML deliverable alongside the Markdown source.
 Do not make the HTML a fragment or require external CSS, JavaScript, fonts, images, or network access.
 Use semantic `header`, `main`, `section`, `nav`, `footer`, headings in order, native lists, and real tables with `caption`, `thead`, `th`, and `scope` where tables are used.
 Set the document language with `lang`, include UTF-8 and viewport metadata, and give it a specific descriptive `title`.
