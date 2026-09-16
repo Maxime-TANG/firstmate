@@ -1,0 +1,5 @@
+service-offer targeted end-to-end attempt
+Input: incomplete French ESN brief (ERP-CRM, sponsor/budget/security/deadline unknown).
+Interface: codex exec --ephemeral --sandbox read-only /service-offer
+Result: the nested session entered fm-session-start.sh, repeatedly reported STARTUP TRUNCATED during the unknown stage, and timed out after 120s (exit 124).
+No source or worktree files were changed. No valid generated Markdown/HTML pair was produced by the skill-loaded invocation.
